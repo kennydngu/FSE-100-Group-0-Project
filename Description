@@ -1,0 +1,9 @@
+Detailed Description of Items/Functionalities:
+Bowl - The bowl is used for placing whatever item you want to weigh whether it's a liquid or dry ingredient it helps measure out the ingredients being used.
+Lid - The lid will be used to place over the bowl and its main function will be to hold our components like the humidity sensor and temperature sensor.
+Weight Sensor - The weight sensor is going to be used for the platform under the bowl so that we can have an accurate measurement of the contents inside the bowl. As long as the device is on, it will constantly check for the weight value.
+Power ON/OFF Button - This button is going to be used to zero out the scale and to just turn it on and off.
+Unit Button - This button will be used to change between different unit measurements like grams, ounces, pounds, milligrams, milliliters, and liters which can be switched when you press the button.
+Speaker - The speaker will be used to announce the exact weight of the contents inside the bowl and also the humidity and temperature of whatever is inside when the lid is placed over the bowl.
+Humidity Sensor - The humidity sensor will be used to detect the humidity of what is inside the bowl when covered which can be helpful for things like dough.
+Temperature Sensor - The temperature sensor will be used to detect the temperature of the inside of the bowl to see when something is warm, room temperature, or cold.
