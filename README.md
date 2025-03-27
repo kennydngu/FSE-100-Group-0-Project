@@ -1,7 +1,7 @@
 # FSE-100-Group-0-Project
 Repository for Group 0's weight scale gadget project
 
-
+ 
 Our concept solution is a plate intended for bakers with limited vision or complete vision impairment. The plate will have numerous functions the primary one being measuring ingredients. The plate will have zeroing functions and other measures to ensure that accurate weights are recorded despite what container is used. Some secondary functions are that the plate will also have a circular “lid” of sorts that will come attached to the plate. Using this lid you put it over top of the container and it will read 2 things, the temperature and humidity of the contents inside. The plate will automatically read the weight of the object after 3 seconds of the change not being detected. This is so that it is not constantly providing output and ensures that when read the user is ready. The readings will be output via speaker where the weight followed by the temperature humidity will be called. We also want the plate to have a button input that allows the user to change the unit of measurement. (Also called by speaker)
 
 
